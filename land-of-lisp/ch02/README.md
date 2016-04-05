@@ -8,7 +8,7 @@ Small script to guess the number from input.
 
 ## How to run
 
-1. On your terminal run ``clisp main.lisp``
+1. On your terminal run ``clisp -i main.lisp``
 
 ## Author
 
